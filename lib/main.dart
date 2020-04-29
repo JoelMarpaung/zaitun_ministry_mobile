@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:audio_service/audio_service.dart';
+// import 'package:package_info/package_info.dart';
 import 'package:upgrader/upgrader.dart';
 
 import './view/info/index.dart' as info;
@@ -22,7 +23,7 @@ class ZaitunApp extends StatelessWidget {
     final cfg = AppcastConfiguration(url: appcastURL, supportedOS: ['android']);
 
     return MaterialApp(
-        title: 'Zaitun Ministry',
+        title: 'Radio Zaitun',
         home: AudioServiceWidget(
           child: UpgradeAlert(
               appcastConfig: cfg, debugLogging: false, child: HomePage()),
@@ -36,6 +37,26 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  // PackageInfo _packageInfo = PackageInfo(
+  //   appName: 'Unknown',
+  //   packageName: 'Unknown',
+  //   version: 'Unknown',
+  //   buildNumber: 'Unknown',
+  // );
+
+  // @override
+  // void initState() {
+  //   super.initState();
+  //   _initPackageInfo();
+  // }
+
+  // Future<void> _initPackageInfo() async {
+  //   final PackageInfo info = await PackageInfo.fromPlatform();
+  //   setState(() {
+  //     _packageInfo = info;
+  //   });
+  // }
+
   int _selectedIndex = 0;
   static const TextStyle optionStyle =
       TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
@@ -49,6 +70,11 @@ class _HomePageState extends State<HomePage> {
     setState(() {
       _selectedIndex = index;
     });
+    // print("test");
+    // print(_packageInfo.appName);
+    // print(_packageInfo.buildNumber);
+    // print(_packageInfo.packageName);
+    // print(_packageInfo.version);
   }
 
   @override
@@ -58,7 +84,7 @@ class _HomePageState extends State<HomePage> {
         backgroundColor: Colors.blue.shade500,
         title: Center(
           child: const Text(
-            'ZAITUN MINISTRY',
+            'RADIO ZAITUN',
             style: TextStyle(
               fontFamily: 'Acme',
               fontWeight: FontWeight.bold,

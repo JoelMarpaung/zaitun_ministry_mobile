@@ -29,10 +29,10 @@ class _IndexRadioState extends State<IndexRadio> {
             children: [
               logo(),
               middle(basicState),
-              Text(
-                "Mohon tunggu sampai radio menyala !",
-                style: TextStyle(color: Colors.red),
-              ),
+              // Text(
+              //   "Mohon tunggu sampai radio menyala !",
+              //   style: TextStyle(color: Colors.red),
+              // ),
               quotes(),
             ],
           );

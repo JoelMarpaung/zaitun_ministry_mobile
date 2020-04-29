@@ -10,7 +10,7 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="Zaitun Ministry"
+        android:label="Radio Zaitun Suara Kebenaran"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"

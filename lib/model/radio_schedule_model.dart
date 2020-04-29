@@ -1,38 +1,38 @@
 const Map radioScheduleData = {
   "Senin": [
-    {"Pukul": "05.00 - 06.00", "Acara": "SAAT TEDUH", "Penyiar": "IWAN SINAGA"},
+    {"Pukul": "05.00 - 06.00", "Acara": "SAAT TEDUH", "Penyiar": "IWAN"},
     {
       "Pukul": "06.00 - 07.15",
       "Acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "Penyiar": "IWAN SINAGA"
+      "Penyiar": "IWAN"
     },
     {
       "Pukul": "08.00 - 10.00",
       "Acara": "PESONA PAGI",
-      "Penyiar": "ESTER SITUMORANG"
+      "Penyiar": "ESTER"
     },
-    {"Pukul": "10.00 - 11.30", "Acara": "ZAITUN NEWS", "Penyiar": "MASTA SITUMORANG"},
+    {"Pukul": "10.00 - 11.30", "Acara": "ZAITUN NEWS", "Penyiar": "MASTA"},
     {
       "Pukul": "12.00 - 13.00",
       "Acara": "ZAITUN LUNCH (live khotbah siang)",
-      "Penyiar": "MASTA SITUMORANG"
+      "Penyiar": "MASTA"
     },
     {"Pukul": "13.00 - 14.00", "Acara": "DANGDUT ROHANI", "Penyiar": "IWAN"},
     {"Pukul": "14.30 - 16.00", "Acara": "DIRUMAH AJA", "Penyiar": "LESTARI"},
     {
       "Pukul": "16.00 - 18.00",
       "Acara": "SEKOLAH MINGGU CERIA",
-      "Penyiar": "MASTA SITUMORANG"
+      "Penyiar": "MASTA"
     },
     {
       "Pukul": "18.00 - 19.30",
       "Acara": "ZAITUN DINNER (live khotbah malam)",
-      "Penyiar": "MASTA SITUMORANG"
+      "Penyiar": "MASTA"
     },
     {
       "Pukul": "20.00 - 22.00",
       "Acara": "BATAK BERMAZMUR",
-      "Penyiar": "IWAN SINAGA"
+      "Penyiar": "IWAN"
     },
     {
       "Pukul": "22.00 - 23.00",
@@ -50,13 +50,13 @@ const Map radioScheduleData = {
     {
       "Pukul": "08.00 - 10.00",
       "Acara": "PESONA PAGI",
-      "Penyiar": "ESTER SITUMORANG"
+      "Penyiar": "ESTER"
     },
-    {"Pukul": "10.00 - 11.30", "Acara": "CERITAKU", "Penyiar": "DIAN DABUKE"},
+    {"Pukul": "10.00 - 11.30", "Acara": "CERITAKU", "Penyiar": "DIAN"},
     {
       "Pukul": "12.00 - 13.00",
       "Acara": "ZAITUN LUNCH (live khotbah siang)",
-      "Penyiar": "DIAN DABUKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "13.00 - 14.00",
@@ -85,17 +85,17 @@ const Map radioScheduleData = {
     {
       "Pukul": "05.00 - 06.00",
       "Acara": "SAAT TEDUH",
-      "Penyiar": "HOTNA PASARIBU"
+      "Penyiar": "HOTNA"
     },
     {
       "Pukul": "06.00 - 07.15",
       "Acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "Penyiar": "HOTNA PASARIBU"
+      "Penyiar": "HOTNA"
     },
     {
       "Pukul": "08.00 - 10.00",
       "Acara": "PESONA PAGI",
-      "Penyiar": "ESTER SITUMORANG"
+      "Penyiar": "ESTER"
     },
     {"Pukul": "10.00 - 11.30", "Acara": "ZAITUN NEWS", "Penyiar": "MARLINA, DESI"},
     {
@@ -106,7 +106,7 @@ const Map radioScheduleData = {
     {
       "Pukul": "13.00 - 14.00",
       "Acara": "DANGDUT ROHANI",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {"Pukul": "14.30 - 16.00", "Acara": "ZAITUN BERBAGI", "Penyiar": "LESTARI"},
     {
@@ -146,37 +146,37 @@ const Map radioScheduleData = {
     {
       "Pukul": "10.00 - 11.30",
       "Acara": "ZAITUN CHEFF",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "12.00 - 13.00",
       "Acara": "ZAITUN LUNCH (live khotbah siang)",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "13.00 - 14.00",
       "Acara": "INDONESIA BERMAZMUR",
-      "Penyiar": "IWAN SINAGA"
+      "Penyiar": "IWAN"
     },
     {
       "Pukul": "15.00 - 16.30",
       "Acara": "SEKOLAH MINGGU CERIA",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "16.30 - 18.00",
       "Acara": "FREE MUSIC",
-      "Penyiar": "RIBKA MANULLANG"
+      "Penyiar": "RIBKA"
     },
     {
       "Pukul": "18.00 - 22.00",
       "Acara": "LIVE IBADAH PA",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "22.00 - 23.00",
       "Acara": "ZAITUN BERDOA SYAFAAT",
-      "Penyiar": "LESTARI, RIBKA MANULLANG"
+      "Penyiar": "LESTARI, RIBKA"
     },
   ],
   "Jumat": [
@@ -189,7 +189,7 @@ const Map radioScheduleData = {
     {
       "Pukul": "08.00 - 10.00",
       "Acara": "PESONA PAGI",
-      "Penyiar": "ESTER SITUMORANG"
+      "Penyiar": "ESTER"
     },
     {"Pukul": "10.00 - 11.30", "Acara": "ZAITUN HISTORY", "Penyiar": "LESTARI"},
     {
@@ -234,7 +234,7 @@ const Map radioScheduleData = {
     {
       "Pukul": "08.00 - 10.00",
       "Acara": "ZAITUN TOP 10",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "10.00 - 11.30",
@@ -260,7 +260,7 @@ const Map radioScheduleData = {
     {
       "Pukul": "18.00 - 19.30",
       "Acara": "LIVE STREAMING PW & TALK SHOW YOUTH (XO)",
-      "Penyiar": "IWAN SINAGA"
+      "Penyiar": "IWAN"
     },
     {
       "Pukul": "20.00 - 22.00",
@@ -277,35 +277,35 @@ const Map radioScheduleData = {
     {
       "Pukul": "05.00 - 06.00",
       "Acara": "SAAT TEDUH",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "06.00 - 07.15",
       "Acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "08.00 - 09.00",
       "Acara": "LIVE IBADAH SEKOLAH MINGGU",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "10.00 - 14.00",
       "Acara": "LIVE IBADAH RAYA",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "14.00 - 15.30",
       "Acara": "FREE MUSIC",
-      "Penyiar": "DIAN DABUKKE"
+      "Penyiar": "DIAN"
     },
     {
       "Pukul": "15.30 - 18.00",
       "Acara": "SIARAN ULANG IBADAH RAYA",
-      "Penyiar": "ESTER SITUMORANG"
+      "Penyiar": "ESTER"
     },
-    {"Pukul": "18.00 - 20.00", "Acara": "FREE MUSIC", "Penyiar": "IWAN SINAGA"},
-    {"Pukul": "20.00 - 22.00", "Acara": "TALK SHOW", "Penyiar": "IWAN SINAGA"},
+    {"Pukul": "18.00 - 20.00", "Acara": "FREE MUSIC", "Penyiar": "IWAN"},
+    {"Pukul": "20.00 - 22.00", "Acara": "TALK SHOW", "Penyiar": "IWAN"},
     {
       "Pukul": "22.00 - 23.00",
       "Acara": "ZAITUN BERDOA SYAFAAT",

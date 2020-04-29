@@ -91,8 +91,8 @@ class _IndexInfoState extends State<IndexInfo> {
         child: Column(
           children: <Widget>[
             Text(
-              'ZAITUN MINISTRY berpusat di Lumban Dolok, Balige, Kabupaten Toba, Sumatera Utara, Indonesia.\n\n' +
-                  'Hingga saat ini sudah ada beberapa cabang gereja selain dari Zaitun Ministry yang berlokasi di Balige, yaitu Lubuk Pakam, Binjai, Parapat, Porsea, Siborong-borong dan Samosir.',
+              'RADIO ZAITUN beralamat di jalan Lumban Dolok, Balige, Kabupaten Toba, Sumatera Utara, Indonesia.\n\n' +
+                  'ON AIR mulai dari pukul 05.00 pagi sampai dengan pukul 23.00 malam, dengan membawa lagu, khotbah, hingga talkshow full rohani.',
               style: TextStyle(fontFamily: 'Kalam'),
             ),
             Align(
@@ -171,7 +171,8 @@ class _IndexInfoState extends State<IndexInfo> {
       child: Padding(
         padding: const EdgeInsets.all(15.0),
         child: Text(
-          'ZAITUN MINISTRY mengadakan beberapa kegiatan ibadah seperti ibadah raya, ibadah muda mudi, ibadah sekolah minggu, ibadah pelepasan dan kesembuhan ilahi, ' +
+          'Hingga saat ini sudah ada beberapa cabang gereja selain dari Zaitun yang berlokasi di Balige, yaitu Lubuk Pakam, Binjai, Parapat, Porsea, Siborong-borong dan Samosir. \n\n'+ 
+          'Di Zaitun diadakan beberapa kegiatan ibadah seperti ibadah raya, ibadah muda mudi, ibadah sekolah minggu, ibadah pelepasan dan kesembuhan ilahi, ' +
               'ibadah pendalaman alkitab, ibadah mezbah dupa, ibadah fellowship, dan kegiatan ibadah lainnya.',
           style: TextStyle(fontFamily: 'Kalam'),
         ),
@@ -226,7 +227,7 @@ class _IndexInfoState extends State<IndexInfo> {
         children: <Widget>[
           Center(
             child: Text(
-                "Zaitun Ministry mobile application is designed and built by Zaitun Application Developer.\n"),
+                "Radio Zaitun mobile application is designed and built by Zaitun Application Developer.\n"),
           ),
           Center(
             child: Row(
@@ -235,7 +236,7 @@ class _IndexInfoState extends State<IndexInfo> {
               children: <Widget>[
                 new Text("Copyright \u00a9"),
                 new Text(" $year"),
-                new Text(" Zaitun Ministry."),
+                new Text(" Radio Zaitun."),
                 new Text(" All rights reserved.")
               ],
             ),
@@ -321,7 +322,7 @@ class _IndexInfoState extends State<IndexInfo> {
               ),
             ],
           ),
-          Text('\nApp. version 1.0.0'),
+          Text('\nApp. version 1.0.1'),
           Padding(
             padding: EdgeInsets.only(top: 5.0),
           ),
