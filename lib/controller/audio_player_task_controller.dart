@@ -11,8 +11,8 @@ class AudioPlayerTask extends BackgroundAudioTask {
     MediaItem(
       id: "http://45.32.103.238:8089/stream/;stream.mp3",
       album: "Zaitun Ministry",
-      title: "Zaitun Ministry",
-      artist: "Zaitun Ministry Radio",
+      title: "Radio Zaitun",
+      artist: "Radio Zaitun Suara Kebenaran",
       artUri:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christian_cross.svg/75px-Christian_cross.svg.png",
     ),
